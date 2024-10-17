@@ -6,3 +6,7 @@ Want ng pahinga
 ``` java
 String loveQ = "Hanzue Keobi";
 ```
+
+- [X] Kumain
+- [X] Uminorm
+- [ ] Umusad
